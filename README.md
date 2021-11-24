@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ainira
-- 🌱 I’m currently learning about data pipeline and machine learning using Python. 
+- 🌱 I’m currently learning about SQL and data visualization. 
 - 📫 How to reach me : a.nazirahrosli@gmail.com
 
 <!---
